@@ -1,13 +1,215 @@
+
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 user-scalable=no">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css" integrity="sha512-KfkfwYDsLkIlwQp6LFnl8zNdLGxu9YAA1QvwINks4PhcElQSvqcyVLLD9aMhXd13uQjoXtEKNosOWaZqXgel0g==" crossorigin="anonymous" referrerpolicy="no-referrer"
+    />
+    <link rel="stylesheet" href="style.css">
+    <title>PL Desarrollador Web</title>
 </head>
+
 <body>
-    <h1>github pages!!!</h1>
+    <!-- SECCION I N I C I O -->
+    <section id="inicio">
+        <div class="contenido">
+            <header>
+                <div class="contenido-header">
+                    <h1>Pedro Lopez</h1>
+                    <nav id="nav" class="">
+                        <ul id="links">
+                            <li><a href="#inicio" class="seleccionado" onclick="seleccionar(this)">INICIO</a></li>
+                            <li><a href="#sobremi" onclick="seleccionar(this)">SOBRE MI</a></li>
+                            <li><a href="#portfolio" onclick="seleccionar(this)">PORTFOLIO</a></li>
+                        </ul>
+                    </nav>
+                    <div id="icono-nav" onclick="responsiveMenu()">
+                        <i class="fa-solid fa-bars"></i>
+                    </div>
+                    <div class="redes">
+                        <a href="#"><i class="fa-brands fa-youtube"></i></a>
+                        <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                        <a href="#"><i class="fa-brands fa-instagram-square"></i></a>
+                    </div>
+                </div>
+            </header>
+            <div class="presentacion">
+                <p class="bienvenida">Bienvenidos</p>
+                <h2>Soy <span>Pedro lopez Ayala</span>, Tecnico en Computación e Informática </h2>
+                <p class="descripcion">  </p>
+                <a href="#portfolio">Ir a Portafolio</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- SECCION S O B R E M I -->
+    <section id="sobremi">
+       
+        <div class="sobremi">
+            <p class="titulo-seccion">Sobre Mi</p>
+            <h2>Hola, Soy <span>Pedro José Lopez Ayala</span> </h2>
+            <h3>Programador Full-Stack </h3>
+            <p>Me considero alguien apasionado por la programación y además soy alguien que le gusta aprender algo nuevo cada día, de esta manera poder crecer profesionalmente dentro del rubro de la Informática.
+                
+            </p> 
+                <a href="/CV_PedroLopez.pdf" download>Descargar CV</a>
+        </div>
+    </section>
+
+    <!-- SECCION S E R V I C I O S -->
+
+
+    <!-- SECCION H A B I L I D A D E S -->
+    <div class="contenedor-skills" id="skills">
+        <h3>HABILIDADES </h3>
+        <div class="skill">
+            <div class="info">
+                <p> <span class="lista"> </span>ANGULAR</p>
+                <span class="porcentaje">BASICO</span>
+            </div>
+        </div>
+        <div class="skill">
+            <div class="info">
+                <p> <span class="lista"> </span>C++</p>
+                <span class="porcentaje">INTERMEDIO</span>
+            </div>
+        </div>
+        <div class="skill">
+            <div class="info">
+                <p> <span class="lista"> </span>C#</p>
+                <span class="porcentaje">INTERMEDIO</span>
+            </div>
+        </div>
+  
+        <div class="skill">
+            <div class="info">
+                <p> <span class="lista"> </span>JAVA</p>
+                <span class="porcentaje">BASICO</span>
+            </div>
+        </div>
+        <div class="skill">
+            <div class="info">
+                <p> <span class="lista"> </span>JAVASCRIPT</p>
+                <span class="porcentaje">INTERMEDIO</span>
+            </div>
+        </div>
+        <div class="skill">
+            <div class="info">
+                <p> <span class="lista"> </span>LARAVEL</p>
+                <span class="porcentaje">INTERMEDIO</span>
+            </div>
+        </div>
+        <div class="skill">
+            <div class="info">
+                <p> <span class="lista"> </span>MYSQL </p>
+                <span class="porcentaje">INTERMEDIO</span>
+            </div>
+        </div>
+        <div class="skill">
+            <div class="info">
+                <p> <span class="lista"> </span>NODE.JS</p>
+                <span class="porcentaje">BASICO</span>
+            </div>
+        </div>
+        <div class="skill">
+            <div class="info">
+                <p> <span class="lista"> </span>PHP</p>
+                <span class="porcentaje">INTERMEDIO</span>
+            </div>
+        </div>
+        <div class="skill">
+            <div class="info">
+                <p> <span class="lista"> </span>SQL SERVER </p>
+                <span class="porcentaje">INTERMEDIO</span>
+            </div>
+        </div>
+        <div class="skill">
+            <div class="info">
+                <p> <span class="lista"> </span>REACT</p>
+                <span class="porcentaje">BASICO</span>
+            </div>
+        </div>
+        <div class="skill">
+            <div class="info">
+                <p> <span class="lista"> </span>VISUAL BASIC</p>
+                <span class="porcentaje">BASICO</span>
+            </div>
+        </div>
     
+      
+   
+
+    
+       
+      
+  
+    </div>
+
+    <!-- SECCION PORTAFOLIO -->
+    <section id="portfolio">
+        <h3 class="titulo-seccion">Mis Proyectos</h3>
+        <div class="fila">
+            <div class="proyecto">
+                <div class="overlay"></div>
+                <img src="img/midas.png" alt="">
+                <div class="info">
+                    <h4 >
+                        <a href="https://qa.midas.la/" target="_blank" style="text-decoration: none; color:#ff5080">
+                            MIDAS CHILE
+                        </a></h4>
+                </div>
+            </div>
+            <div class="proyecto">
+                <div class="overlay"></div>
+                <img src="img/taxiticket.png" alt="">
+                <div class="info">
+                    <h4 >
+                        <a href="https://www.taxiticket.wdgr.cl/" target="_blank" style="text-decoration: none; color:#ff5080">
+                            TAXI TICKET
+                        </a></h4>
+                </div>
+            </div>
+           
+        </div>
+        <div class="fila">
+            <div class="proyecto">
+                <div class="overlay"></div>
+                <img src="img/libro_.png" alt="">
+                <div class="info">
+                    <h4>Libro de Clases Digital</h4>
+                </div>
+            </div>
+            <div class="proyecto">
+                <div class="overlay"></div>
+                <img src="img/crud.png" alt="">
+                <div class="info">
+                    <h4>CRUD ANGULAR</h4>
+                </div>
+            </div>
+        
+        </div>
+      
+    </section>
+
+    <!-- SECCTION C O N T A C T O -->
+
+
+    <!-- SECCION FOOTER -->
+    <footer>
+        <p>Todos los derechos reservados - 2022</p>
+        <div class="redes">
+            <a href="#"><i class="fa-brands fa-youtube"></i></a>
+            <a href="#"><i class="fa-brands fa-facebook"></i></a>
+            <a href="#"><i class="fa-brands fa-instagram-square"></i></a>
+        </div>
+
+    </footer>
+
+    <script src="index.js"></script>
+
 </body>
+
 </html>
