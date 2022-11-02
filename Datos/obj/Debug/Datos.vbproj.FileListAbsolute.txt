@@ -1,0 +1,532 @@
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Datos.dll.config
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Datos.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Datos.pdb
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Datos.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Azure.Core.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Azure.Identity.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Security.Permissions.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Azure.Core.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Azure.Identity.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Security.Permissions.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\obj\Debug\Datos.vbproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\obj\Debug\Datos.vbproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\obj\Debug\Datos.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\obj\Debug\Datos.vbproj.CopyComplete
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\obj\Debug\Datos.dll
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\obj\Debug\Datos.xml
+C:\Users\Usuario\Downloads\iEdeucaLCD\Datos\obj\Debug\Datos.pdb
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Datos.dll.config
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Datos.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Datos.pdb
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Datos.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Azure.Core.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Azure.Identity.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Security.Permissions.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Azure.Core.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Azure.Identity.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Security.Permissions.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\obj\Debug\Datos.vbproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\obj\Debug\Datos.vbproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\obj\Debug\Datos.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\obj\Debug\Datos.vbproj.CopyComplete
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\obj\Debug\Datos.dll
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\obj\Debug\Datos.xml
+C:\Users\Usuario\Downloads\Nueva carpeta (4)\librodigital2020\Datos\obj\Debug\Datos.pdb
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Datos.dll.config
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Datos.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Datos.pdb
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Datos.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Buffers.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Memory.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Security.Permissions.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Text.Json.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Buffers.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Memory.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Security.Permissions.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Text.Json.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\Pedro\Downloads\librodigital2020\Datos\obj\Debug\Datos.vbproj.GenerateResource.Cache
+C:\Users\Pedro\Downloads\librodigital2020\Datos\obj\Debug\Datos.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\obj\Debug\Datos.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\obj\Debug\Datos.pdb
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Azure.Core.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Azure.Identity.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.ValueTuple.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Azure.Core.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Azure.Identity.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\System.ValueTuple.xml
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020\Datos\obj\Debug\Datos.vbproj.CoreCompileInputs.cache
+C:\Users\Pedro\Downloads\librodigital2020\Datos\obj\Debug\Datos.vbproj.CopyComplete
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Datos.dll.config
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Datos.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Datos.pdb
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Datos.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Azure.Core.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Azure.Identity.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Memory.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Security.Permissions.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Text.Json.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.ValueTuple.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Azure.Core.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Azure.Identity.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Buffers.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Memory.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Security.Permissions.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Text.Json.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\System.ValueTuple.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\obj\Debug\Datos.vbproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\librodigital2020\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\Usuario\Downloads\librodigital2020\Datos\obj\Debug\Datos.vbproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\librodigital2020\Datos\obj\Debug\Datos.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\librodigital2020\Datos\obj\Debug\Datos.vbproj.CopyComplete
+C:\Users\Usuario\Downloads\librodigital2020\Datos\obj\Debug\Datos.dll
+C:\Users\Usuario\Downloads\librodigital2020\Datos\obj\Debug\Datos.xml
+C:\Users\Usuario\Downloads\librodigital2020\Datos\obj\Debug\Datos.pdb
+C:\Users\Pedro\Downloads\librodigital2020\Datos\obj\Debug\Datos.vbproj.AssemblyReference.cache
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Datos.dll.config
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Datos.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Datos.pdb
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Datos.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Azure.Core.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Azure.Identity.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Buffers.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Memory.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Security.Permissions.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Text.Json.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.ValueTuple.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Azure.Core.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Azure.Identity.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Buffers.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Memory.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Security.Permissions.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Text.Json.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\System.ValueTuple.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\obj\Debug\Datos.vbproj.AssemblyReference.cache
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\obj\Debug\Datos.vbproj.GenerateResource.cache
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\obj\Debug\Datos.vbproj.CoreCompileInputs.cache
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\obj\Debug\Datos.vbproj.CopyComplete
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\obj\Debug\Datos.dll
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\obj\Debug\Datos.xml
+C:\Users\Pedro\Downloads\librodigital2020 pruebatoken1\Datos\obj\Debug\Datos.pdb
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Datos.dll.config
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Datos.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Datos.pdb
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Datos.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Azure.Core.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Azure.Identity.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Microsoft.Data.SqlClient.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Microsoft.Identity.Client.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.Logging.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Buffers.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Memory.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Security.Permissions.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Text.Json.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.ValueTuple.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Azure.Core.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Azure.Identity.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Microsoft.Data.SqlClient.pdb
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Microsoft.Data.SqlClient.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Microsoft.Identity.Client.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.Logging.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Buffers.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Memory.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Security.Permissions.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Text.Json.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\System.ValueTuple.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\obj\Debug\Datos.vbproj.AssemblyReference.cache
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\obj\Debug\Datos.Resources.resources
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\obj\Debug\Datos.vbproj.GenerateResource.cache
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\obj\Debug\Datos.vbproj.CoreCompileInputs.cache
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\obj\Debug\Datos.vbproj.CopyComplete
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\obj\Debug\Datos.dll
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\obj\Debug\Datos.xml
+C:\Users\Pedro\Downloads\rep2\librodigitaliEduca\Datos\obj\Debug\Datos.pdb
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Datos.dll.config
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Datos.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Datos.pdb
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Datos.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Azure.Core.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Azure.Identity.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Microsoft.Data.SqlClient.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Microsoft.Identity.Client.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.Logging.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Buffers.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Data.SqlClient.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Memory.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Numerics.Vectors.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Security.AccessControl.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Security.Cryptography.ProtectedData.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Security.Permissions.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Security.Principal.Windows.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Text.Encodings.Web.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Text.Json.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.ValueTuple.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Azure.Core.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Azure.Identity.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Microsoft.Data.SqlClient.pdb
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Microsoft.Data.SqlClient.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Microsoft.Identity.Client.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Microsoft.Identity.Client.Extensions.Msal.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.JsonWebTokens.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.Logging.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Buffers.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Data.SqlClient.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Memory.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Numerics.Vectors.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Security.AccessControl.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Security.Permissions.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Security.Principal.Windows.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Text.Encodings.Web.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Text.Json.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\System.ValueTuple.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\de\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\es\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\it\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\bin\Debug\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\obj\Debug\Datos.vbproj.AssemblyReference.cache
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\obj\Debug\Datos.Resources.resources
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\obj\Debug\Datos.vbproj.GenerateResource.cache
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\obj\Debug\Datos.vbproj.CoreCompileInputs.cache
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\obj\Debug\Datos.vbproj.CopyComplete
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\obj\Debug\Datos.dll
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\obj\Debug\Datos.xml
+D:\Proyectos\Visual Basic\librodigitaliEduca\Datos\obj\Debug\Datos.pdb

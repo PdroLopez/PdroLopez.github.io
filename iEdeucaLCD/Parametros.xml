@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CNSource>
+
+
+	<Conexion Nombre="ie" Server="mssql.informados.cl" Base="sergio_ieduca_lcd_2021" Usuario="sergio_usr_ieduca_lcd" Clave="^wq63Eo0@20StZX"></Conexion>
+
+</CNSource>

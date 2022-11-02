@@ -1,0 +1,69 @@
+﻿
+<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="Login.master.vb" Inherits="iEdeucaLCD.Login" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta http-equiv="content-type" content="text/plain; charset=UTF-8"/>
+
+    <!-- End Required meta tags -->
+    <!-- Begin SEO tag -->
+    <title> Iniciar Sesión | iEdeuca 2021 </title>
+
+    <!-- End SEO tag -->
+    <script src="https://kit.fontawesome.com/2c36e9b7b1.js" crossorigin="anonymous"></script>
+    <!-- Favicons -->
+    <!-- Google font -->
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans:400,500,600" rel="stylesheet">
+    <!-- End Google font -->
+    <!-- BEGIN PLUGINS STYLES -->
+    <link rel="stylesheet" href="assets/vendor/@fortawesome/fontawesome-free/css/all.min.css">
+    <!-- END PLUGINS STYLES -->
+    <!-- BEGIN THEME STYLES -->
+    <link rel="stylesheet" href="assets/stylesheets/theme.min.css" data-skin="default">
+    <link rel="stylesheet" href="assets/stylesheets/theme-dark.min.css" data-skin="dark">
+    <link href="btn_dark/css/estilos.css" rel="stylesheet" />
+    <link rel="stylesheet" href="assets/stylesheets/custom.css">
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="sweetalert2.all.min.js"></script>
+    <script src="sweetalert2.min.js"></script>
+    <link rel="stylesheet" href="sweetalert2.min.css">
+       <link rel="stylesheet" href="sweetalert2.min.css">
+    <script>
+        var skin = localStorage.getItem('skin') || 'default';
+        var isCompact = JSON.parse(localStorage.getItem('hasCompactMenu'));
+        var disabledSkinStylesheet = document.querySelector('link[data-skin]:not([data-skin="' + skin + '"])');
+        // Disable unused skin immediately
+        disabledSkinStylesheet.setAttribute('rel', '');
+        disabledSkinStylesheet.setAttribute('disabled', true);
+        // add flag class to html immediately
+        if (isCompact == true) document.querySelector('html').classList.add('preparing-compact-menu');
+    </script>
+    <!-- END THEME STYLES -->
+</head>
+    <script src="jquery-3.6.0.js"></script>
+  
+<body>
+        <asp:ContentPlaceHolder ID="Inicio" runat="server">
+        </asp:ContentPlaceHolder>
+
+         
+    <script src="assets/vendor/jquery/jquery.min.js"></script>
+    <script src="assets/vendor/popper.js/umd/popper.min.js"></script>
+    <script src="assets/vendor/bootstrap/js/bootstrap.min.js"></script>
+    <script src="assets/vendor/particles.js/particles.js"></script>
+    <script>
+        $(document).on('theme:init', () => {
+            particlesJS.load('auth-header', 'assets/javascript/pages/particles.json');
+        })
+    </script> 
+    <script src="assets/javascript/theme.js"></script> 
+    <script src="btn_dark/js/main.js"></script>
+
+   
+</body>
+</html>
